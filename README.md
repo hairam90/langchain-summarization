@@ -14,3 +14,7 @@ Task 4 output:
 
 Task 5 output:
 ![image](https://github.com/user-attachments/assets/30ca2338-c1ef-43c6-acc6-1251c90996d4)
+
+Task 6 output:
+![alt text](image.png)
+![alt text](image-1.png)
