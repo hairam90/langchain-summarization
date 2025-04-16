@@ -14,3 +14,8 @@ Task 4 output:
 
 Task 5 output:
 ![image](https://github.com/user-attachments/assets/30ca2338-c1ef-43c6-acc6-1251c90996d4)
+
+Task 6 output:
+![image](https://github.com/user-attachments/assets/1404e72e-447f-4543-9e1f-89353103f97e)
+![image](https://github.com/user-attachments/assets/4f6ef549-fe10-4d47-a0da-b0213a46ed23)
+
