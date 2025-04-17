@@ -20,6 +20,9 @@ Task 6 output:
 ![image](https://github.com/user-attachments/assets/4f6ef549-fe10-4d47-a0da-b0213a46ed23)
 
 
+
 Task 6 output:
 ![alt text](image.png)
 ![alt text](image-1.png)
+=======
+
