@@ -19,10 +19,8 @@ Task 6 output:
 ![image](https://github.com/user-attachments/assets/1404e72e-447f-4543-9e1f-89353103f97e)
 ![image](https://github.com/user-attachments/assets/4f6ef549-fe10-4d47-a0da-b0213a46ed23)
 
+Task-7 output:
+![image](https://github.com/user-attachments/assets/0876bae1-49c3-4de5-95f3-7aac97eb148d)
+![image](https://github.com/user-attachments/assets/c8e1a41e-15fc-4c5e-9df2-0cfd06e957e8)
 
-
-Task 6 output:
-![alt text](image.png)
-![alt text](image-1.png)
-=======
 
