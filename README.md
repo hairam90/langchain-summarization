@@ -26,3 +26,7 @@ Task-7 output:
 Task 8 output:
 ![image](https://github.com/user-attachments/assets/5d9eaff4-a534-4520-95fb-c493cede8cef)
 
+Task 9 output:
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
