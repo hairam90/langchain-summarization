@@ -23,4 +23,6 @@ Task-7 output:
 ![image](https://github.com/user-attachments/assets/0876bae1-49c3-4de5-95f3-7aac97eb148d)
 ![image](https://github.com/user-attachments/assets/c8e1a41e-15fc-4c5e-9df2-0cfd06e957e8)
 
+Task 8 output:
+![image](https://github.com/user-attachments/assets/5d9eaff4-a534-4520-95fb-c493cede8cef)
 
